@@ -22,7 +22,7 @@ Deployment: GitHub Pages, Netlify, Vercel
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/your-username/interactive-portfolio.git
+git clone  https://sxaurabh07.github.io/Interactive-Portfolio/
 
 2. Run the Project
 
